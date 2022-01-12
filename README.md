@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Full stack web Development
-- 📫 You can reach me over LinkedIn(https://www.linkedin.com/in/biplob-hossain-sobuj-2aa933211/)
+- 📫 You can reach me over LinkedIn(https://www.linkedin.com/in/biplobhossainsobuj/)
 
 <!---
 BiplobHossainSobuj/BiplobHossainSobuj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
