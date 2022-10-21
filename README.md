@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BiplobHossainSobuj
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Full stack web Development
+- 👀 I’m interested in SQA and Cyber Security
+- 🌱 I’m Software Quality Assurance
+- 💞️ I’m looking to collaborate on Automation Engineering
 - 📫 You can reach me over LinkedIn(https://www.linkedin.com/in/biplobhossainsobuj/)
 
 <!---
